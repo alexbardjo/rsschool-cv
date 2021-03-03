@@ -20,4 +20,24 @@ I am a junior developer I am interested in frontend and application development 
 * Figma
 
 
+## Code examples
+````
+const user = {};
 
+Object.defineProperty(user, 'name', {
+    value: 'Питер',
+    configurable: false,
+});
+````
+## Professional Experience
+
+* Finish the course of the company "LECTUM" JS + ES6
+* I have 1 year experience in study projects. You can find some of them here https://github.com/alexbardjo
+
+## Education
+
+**Kryvyi Rih National University**
+
+## English
+
+  Intermediate level (B1)
