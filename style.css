@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    margin: 0 auto;
+    height: 100vh;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    background-color: #05080d;
+    color: #dad5ca;
+
+}
+
+.profilePhoto {
+    width: 200px;
+    border-radius: 50px;
+}
+
+.header__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header__title {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.header__contacts h3 {
+    margin-bottom: 15px;
+}
+
+.header__contacts li {
+    margin-bottom: 5px;
+}
+
+.header__contacts span {
+    color: #77a8da;
+}
+
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0;
+    background-color: #1f2832;
+}
+
+.navLink {
+    padding: 5px;
+    color: #cecbed;
+}
+
+.navLink:hover {
+    color: #ebed56;
+    transition-duration: .6s
+}
+
+main {
+    background-color: #cecbed;
+    color: #05080d;
+    padding-bottom: 30px;
+}
+
+section {
+    padding-top: 100px;
+}
+
+hr {
+    margin: 10px auto 20px auto;
+    width: 500px;
+}
+
+.skills li {
+    margin-bottom: 10px;
+}
+
+.skills li:last-child {
+    margin-bottom: 0;
+}
+
+
+.codeExamples__code {
+    background-color: #f6f8fa;
+    width: 500px;
+    margin: 0 auto;
+}
+
+code {
+    color: #05080d;
+}
+
+
+.footer {
+    background-color: #05080d;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px 0;
+}
+.footer p {
+    color: #dad5ca;
+}
+
+.logoRSschool {
+    width: 100px;
+}
+
+.logoGitHub {
+    width: 100px;
+}
+
+
