@@ -1,5 +1,5 @@
-https://your-github-account.github.io/rsschool-cv/cv
+https://alexbardjo.io/rsschool-cv/cv
 <br>
-https://your-github-account.github.io/rsschool-cv/
+https://alexbardjo.github.io/rsschool-cv/
 
 
